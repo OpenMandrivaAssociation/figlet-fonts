@@ -12,6 +12,7 @@ Source2: jave.tar.gz
 Source3: international.tar.gz
 Source4: cjkfonts.tar.gz
 Source5: bdffonts.tar.gz
+BuildRequires: zip
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 

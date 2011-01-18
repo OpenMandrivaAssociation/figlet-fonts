@@ -1,7 +1,7 @@
 %define _fontdir %{_datadir}/figlet
 
 Name: figlet-fonts
-Version: 20100112
+Version: 2010018
 Release: %mkrel 1
 Summary: Additional fonts for FIGlet
 URL: https://github.com/cmatsuoka/figlet-fonts
